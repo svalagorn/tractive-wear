@@ -1,0 +1,70 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "android": {
+      "name": "android",
+      "isOrdered": true,
+      "folders": {
+        "app": {
+          "name": "app",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "gradle": {
+          "name": "gradle",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "react-settings-plugin": {
+          "name": "react-settings-plugin",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {}
+    },
+    "app": {
+      "name": "app",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "assets": {
+      "name": "assets",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "components": {
+      "name": "components",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "constants": {
+      "name": "constants",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "hooks": {
+      "name": "hooks",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "scripts": {
+      "name": "scripts",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}
